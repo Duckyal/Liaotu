@@ -1,0 +1,11 @@
+color-df:EEEDF0 000000 2
+color-df:0000ff 000000 2
+color-df:EDA43F 000000 2
+color-df:A0A0A4 000000 0
+color-df:30221E 000000 0
+color-df:52818D 000000 0
+color-df:FF0000 000000 0
+color-df:000000 000000 0
+color-df:112230 000000 0
+color-df:F3F3F3 000000 0
+path:
