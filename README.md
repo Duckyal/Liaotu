@@ -12,12 +12,13 @@
 
 
 # 快速上手
+![{AF12B5B6-F957-4edf-9E52-1E7436623F75}](https://github.com/Duckyal/Liaotu/assets/118085939/900ea86d-293c-4205-8238-680e23217005)
+
 >1.下载项目zip文件(op-0.4.0文件可从op库下载)后解压缩
 >
 >2.下载释放文件exe程序或者py文件，将其放入解压缩的文件夹中
 >
 >3.运行exe程序或py文件
->![image](https://github.com/Duckyal/Liaotu/assets/118085939/701ba747-7ee4-4b33-88b9-970d35fcc9f4)
 
 
 # 可能存在的问题
