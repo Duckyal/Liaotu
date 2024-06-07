@@ -8,15 +8,15 @@
 >4.该脚本仅供学习交流
 
 # 界面预览
-![image](https://github.com/szbfro/-/assets/118085939/613aafc0-7a98-4db5-8555-3043a3194873)
+![image](https://github.com/Duckyal/Liaotu/assets/118085939/90ef9cb1-4545-4b93-95aa-42a6d1e998c2)
 
 
 # 快速上手
-![{AF12B5B6-F957-4edf-9E52-1E7436623F75}](https://github.com/Duckyal/Liaotu/assets/118085939/900ea86d-293c-4205-8238-680e23217005)
-
 >1.下载项目zip文件(op-0.4.0文件可从op库下载)后解压缩
+>![{AF12B5B6-F957-4edf-9E52-1E7436623F75}](https://github.com/Duckyal/Liaotu/assets/118085939/900ea86d-293c-4205-8238-680e23217005)
 >
 >2.下载释放文件exe程序或者py文件，将其放入解压缩的文件夹中
+>![image](https://github.com/Duckyal/Liaotu/assets/118085939/d09b7efc-9ddc-482c-986f-d624e072dd50)
 >
 >3.运行exe程序或py文件
 
