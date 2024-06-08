@@ -19,6 +19,9 @@
 >![image](https://github.com/Duckyal/Liaotu/assets/118085939/d09b7efc-9ddc-482c-986f-d624e072dd50)
 >
 >3.运行exe程序或py文件
+>
+>4.寮突破坐地阵容推荐
+>![image](https://github.com/Duckyal/Liaotu/assets/118085939/8f8b74cc-8a56-4291-a712-e99c7fec9452)
 
 
 # 可能存在的问题
