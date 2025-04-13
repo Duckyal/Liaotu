@@ -3,13 +3,10 @@
 >
 >2.该脚本可自动调整桌面端阴阳师窗口大小，有基于tkinter写的简易ui
 >
->3.该脚本因后台图色不稳定容易报错，所以仅鼠标设置为后台模式
->
 >4.该脚本仅供学习交流
 
 # 界面预览
-![QQ_1721624643437](https://github.com/user-attachments/assets/8de54690-b2fe-40f8-94af-25531b282b68)
-
+![image](https://github.com/user-attachments/assets/19cf5c6f-e0ab-4b17-bb80-971ff7a0808b)
 
 # 快速上手
 >1.从[releases](https://github.com/Duckyal/Liaotu/releases)下载最新版项目zip文件后解压缩
