@@ -1,3 +1,5 @@
+# 本项目已停更，请移步[AutoScript_onmyoji](https://github.com/Duckyal/AutoScript_onmyoji)
+
 # 概述
 >1.基于[op库](https://github.com/WallBreaker2/op) 运用于阴阳师桌面端的自动化脚本，致力于为各位痒痒鼠大人清寮突破！
 >
